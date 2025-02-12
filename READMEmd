@@ -1,0 +1,31 @@
+
+
+1.hello_world.cpp:
+    Imprime "¡Hola, Mundo!" .
+
+2. operaciones.cpp:
+     Solicita dos números.
+     Imprime la suma y multiplicación.
+
+# Compilación y ejecución
+
+1. Compilación:
+
+   Para hello_world.cpp:
+     g++ hello_world.cpp -o hello_world.exe
+     
+    Para operaciones.cpp:
+    
+     g++ multisum.cpp -o multisum.exe
+     
+
+2. ejecución:
+
+    Para ejecutar hello_world:
+    
+     ./hello_world
+   
+    Para ejecutar multisum:
+    
+     ./multisum
+   
